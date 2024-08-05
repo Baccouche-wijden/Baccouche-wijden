@@ -5,7 +5,6 @@
 
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:baccouche.wijden@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wijden-baccouche-3108222b3/) 
 
 
